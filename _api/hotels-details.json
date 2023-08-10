@@ -1,0 +1,474 @@
+
+
+[
+	{
+		"id": "1",
+		"hotel_id": 1,
+		"city": "Aurangabad",
+		"max_adult_size": 4,
+		"child_status": true,
+		"room_type": [
+			{
+				"id": 1,
+				"title": "Standard",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/1-standart.jpg",
+				"price": 1100
+			},
+			{
+				"id": 2,
+				"title": "Deluxe",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/1-deluxe.jpg",
+				"price": 2200
+			},
+			{
+				"id": 4,
+				"title": "Suit",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/1-suit.jpg",
+				"price": 4400
+			}
+		],
+		"room_scenic": [
+			{
+				"id": 1,
+				"title": "Single Bed",
+				"photo": "https://tse1.mm.bing.net/th?id=OIP.0TSgVWHalWbYXri4JJWPJgHaE8&pid=Api&rs=1&c=1&qlt=95&w=152&h=101",
+				"price_rate": 10
+			},
+			{
+				"id": 2,
+				"title": "Double Bed",
+				"photo": "https://tse1.mm.bing.net/th?id=OIP.3OQjIa_iYNRXnjSifN44nQHaGj&pid=Api&rs=1&c=1&qlt=95&w=134&h=118",
+				"price_rate": 10
+			},
+			{
+				"id": 3,
+				"title": "Quadraple Beds",
+				"photo": "https://tse1.mm.bing.net/th?id=OIP.OgsU8ws0xnPIrnX7HQs3DQHaE8&pid=Api&rs=1&c=1&qlt=95&w=152&h=101",
+				"price_rate": 5
+			}
+		]
+	},
+	{
+		"id": "2",
+		"hotel_id": 2,
+		"city": "Aurangabad",
+		"max_adult_size": 5,
+		"child_status": false,
+		"room_type": [
+			{
+				"id": 1,
+				"title": "Standard",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/2-standart.jpg",
+				"price": 1100
+			},
+			{
+				"id": 2,
+				"title": "Deluxe",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/2-deluxe.jpg",
+				"price": 2200
+			},
+			{
+				"id": 4,
+				"title": "Suit",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/2-suit.jpg",
+				"price": 4400
+			}
+		],
+		"room_scenic": [
+			{
+				"id": 1,
+				"title": "Single Bed",
+				"photo": "https://tse1.mm.bing.net/th?id=OIP.0TSgVWHalWbYXri4JJWPJgHaE8&pid=Api&rs=1&c=1&qlt=95&w=152&h=101",
+				"price_rate": 10
+			},
+			{
+				"id": 2,
+				"title": "Double Bed",
+				"photo": "https://tse1.mm.bing.net/th?id=OIP.3OQjIa_iYNRXnjSifN44nQHaGj&pid=Api&rs=1&c=1&qlt=95&w=134&h=118",
+				"price_rate": 10
+			},
+			{
+				"id": 3,
+				"title": "Quadraple Beds",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/sea-view.jpg",
+				"price_rate": 5
+			}
+		]
+	},
+	{
+		"id": "3",
+		"hotel_id": 3,
+		"city": "Aurangabad",
+		"max_adult_size": 8,
+		"child_status": true,
+		"room_type": [
+			{
+				"id": 1,
+				"title": "Standard",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/3-standart.jpg",
+				"price": 700
+			},
+			{
+				"id": 2,
+				"title": "Deluxe",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/3-deluxe.jpg",
+				"price": 1000
+			},
+			{
+				"id": 4,
+				"title": "Suit",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/1-suit.jpg",
+				"price": 2000
+			}
+		],
+		"room_scenic": [
+			{
+				"id": 1,
+				"title": "Single Bed",
+				"photo": "https://tse1.mm.bing.net/th?id=OIP.0TSgVWHalWbYXri4JJWPJgHaE8&pid=Api&rs=1&c=1&qlt=95&w=152&h=101",
+				"price_rate": 10
+			},
+			{
+				"id": 2,
+				"title": "Double Bed",
+				"photo": "https://tse1.mm.bing.net/th?id=OIP.3OQjIa_iYNRXnjSifN44nQHaGj&pid=Api&rs=1&c=1&qlt=95&w=134&h=118",
+				"price_rate": 10
+			},
+			{
+				"id": 3,
+				"title": "Quadraple Beds",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/sea-view.jpg",
+				"price_rate": 5
+			}
+		]
+	},
+	{
+		"id": "4",
+		"hotel_id": 4,
+		"city": "Aurangabad",
+		"max_adult_size": 12,
+		"child_status": false,
+		"room_type": [
+			{
+				"id": 1,
+				"title": "Standard",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/4-standart.jpg",
+				"price": 900
+			},
+			{
+				"id": 2,
+				"title": "Deluxe",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/4-deluxe.jpg",
+				"price": 1500
+			},
+			{
+				"id": 3,
+				"title": "Suit",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/4-suit.jpg",
+				"price": 2100
+			}
+		],
+		"room_scenic": [
+			{
+				"id": 1,
+				"title": "Single Bed",
+				"photo": "https://tse1.mm.bing.net/th?id=OIP.0TSgVWHalWbYXri4JJWPJgHaE8&pid=Api&rs=1&c=1&qlt=95&w=152&h=101",				
+				"price_rate": 10
+			},
+			{
+				"id": 2,
+				"title": "Double Bed",
+				"photo": "https://tse1.mm.bing.net/th?id=OIP.3OQjIa_iYNRXnjSifN44nQHaGj&pid=Api&rs=1&c=1&qlt=95&w=134&h=118",
+				"price_rate": 10
+			},
+			{
+				"id": 3,
+				"title": "Quadraple Beds",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/sea-view.jpg",
+				"price_rate": 5
+			}
+		]
+	},
+	{
+		"id": "5",
+		"hotel_id": 5,
+		"city": "Aurangabad",
+		"max_adult_size": 11,
+		"child_status": true,
+		"room_type": [
+			{
+				"id": 1,
+				"title": "Standard",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/5-standart.jpg",
+				"price": 1000
+			},
+			{
+				"id": 2,
+				"title": "Deluxe",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/5-deluxe.jpg",
+				"price": 1400
+			},
+			{
+				"id": 4,
+				"title": "Suit",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/1-suit.jpg",
+				"price": 1900
+			}
+		],
+		"room_scenic": [
+			{
+				"id": 1,
+				"title": "Single Bed",
+				"photo": "https://tse1.mm.bing.net/th?id=OIP.0TSgVWHalWbYXri4JJWPJgHaE8&pid=Api&rs=1&c=1&qlt=95&w=152&h=101",
+				"price_rate": 10
+			},
+			{
+				"id": 2,
+				"title": "Double Bed",
+				"photo": "https://tse1.mm.bing.net/th?id=OIP.3OQjIa_iYNRXnjSifN44nQHaGj&pid=Api&rs=1&c=1&qlt=95&w=134&h=118",
+				"price_rate": 10
+			},
+			{
+				"id": 3,
+				"title": "Quadraple Beds",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/sea-view.jpg",
+				"price_rate": 5
+			}
+		]
+	},
+	{
+		"id": "6",
+		"hotel_id": 6,
+		"city": "Aurangabad",
+		"max_adult_size": 4,
+		"child_status": false,
+		"room_type": [
+			{
+				"id": 1,
+				"title": "Standard",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/6-standart.jpg",
+				"price": 400
+			},
+			{
+				"id": 2,
+				"title": "Deluxe",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/6-deluxe.jpg",
+				"price": 700
+			},
+			{
+				"id": 4,
+				"title": "Suit",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/6-suit.jpg",
+				"price": 1000
+			}
+		],
+		"room_scenic": [
+			{
+				"id": 1,
+				"title": "Single Bed",
+				"photo": "https://tse1.mm.bing.net/th?id=OIP.0TSgVWHalWbYXri4JJWPJgHaE8&pid=Api&rs=1&c=1&qlt=95&w=152&h=101",
+				"price_rate": 10
+			},
+			{
+				"id": 2,
+				"title": "Double Bed",
+				"photo": "https://tse1.mm.bing.net/th?id=OIP.3OQjIa_iYNRXnjSifN44nQHaGj&pid=Api&rs=1&c=1&qlt=95&w=134&h=118",
+				"price_rate": 10
+			},
+			{
+				"id": 3,
+				"title": "Quadraple Beds",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/sea-view.jpg",
+				"price_rate": 5
+			}
+		]
+	},
+	{
+		"id": "7",
+		"hotel_id": 7,
+		"city": "Jalna",
+		"max_adult_size": 10,
+		"child_status": false,
+		"room_type": [
+			{
+				"id": 1,
+				"title": "Standard",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/7-standart.jpg",
+				"price": 1000
+			},
+			{
+				"id": 2,
+				"title": "Deluxe",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/7-deluxe.jpg",
+				"price": 1500
+			},
+			{
+				"id": 4,
+				"title": "Suit",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/7-suit.jpg",
+				"price": 2000
+			}
+		],
+		"room_scenic": [
+			{
+				"id": 1,
+				"title": "Single Bed",
+				"photo": "https://tse1.mm.bing.net/th?id=OIP.0TSgVWHalWbYXri4JJWPJgHaE8&pid=Api&rs=1&c=1&qlt=95&w=152&h=101",
+				"price_rate": 10
+			},
+			{
+				"id": 2,
+				"title": "Double Bed",
+				"photo": "https://tse1.mm.bing.net/th?id=OIP.3OQjIa_iYNRXnjSifN44nQHaGj&pid=Api&rs=1&c=1&qlt=95&w=134&h=118",
+				"price_rate": 10
+			},
+			{
+				"id": 3,
+				"title": "Quadraple Beds",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/sea-view.jpg",
+				"price_rate": 5
+			}
+		]
+	},
+	{
+		"id": "8",
+		"hotel_id": 8,
+		"city": "Jalna",
+		"max_adult_size": 9,
+		"child_status": true,
+		"room_type": [
+			{
+				"id": 1,
+				"title": "Standard",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/8-standart.jpg",
+				"price": 600
+			},
+			{
+				"id": 2,
+				"title": "Deluxe",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/8-deluxe.jpg",
+				"price": 900
+			},
+			{
+				"id": 4,
+				"title": "Suit",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/8-suit.jpg",
+				"price": 1300
+			}
+		],
+		"room_scenic": [
+			{
+				"id": 1,
+				"title": "Single Bed",
+				"photo": "https://tse1.mm.bing.net/th?id=OIP.0TSgVWHalWbYXri4JJWPJgHaE8&pid=Api&rs=1&c=1&qlt=95&w=152&h=101",
+				"price_rate": 10
+			},
+			{
+				"id": 2,
+				"title": "Double Bed",
+				"photo": "https://tse1.mm.bing.net/th?id=OIP.3OQjIa_iYNRXnjSifN44nQHaGj&pid=Api&rs=1&c=1&qlt=95&w=134&h=118",
+				"price_rate": 10
+			},
+			{
+				"id": 3,
+				"title": "Quadraple Beds",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/sea-view.jpg",
+				"price_rate": 5
+			}
+		]
+	},
+	{
+		"id": "9",
+		"hotel_id": 9,
+		"city": "Jalna",
+		"max_adult_size": 10,
+		"child_status": true,
+		"room_type": [
+			{
+				"id": 1,
+				"title": "Standard",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/9-standart.jpg",
+				"price": 400
+			},
+			{
+				"id": 2,
+				"title": "Deluxe",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/9-deluxe.jpg",
+				"price": 800
+			},
+			{
+				"id": 4,
+				"title": "Suit",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/1-suit.jpg",
+				"price": 1400
+			}
+		],
+		"room_scenic": [
+			{
+				"id": 1,
+				"title": "Single Bed",
+				"photo": "https://tse1.mm.bing.net/th?id=OIP.0TSgVWHalWbYXri4JJWPJgHaE8&pid=Api&rs=1&c=1&qlt=95&w=152&h=101",
+				"price_rate": 10
+			},
+			{
+				"id": 2,
+				"title": "Double Bed",
+				"photo": "https://tse1.mm.bing.net/th?id=OIP.3OQjIa_iYNRXnjSifN44nQHaGj&pid=Api&rs=1&c=1&qlt=95&w=134&h=118",
+				"price_rate": 10
+			},
+			{
+				"id": 3,
+				"title": "Quadraple Beds",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/sea-view.jpg",
+				"price_rate": 5
+			}
+		]
+	},
+	{
+		"id": "10",
+		"hotel_id": 10,
+		"city": "Jalna",
+		"max_adult_size": 6,
+		"child_status": true,
+		"room_type": [
+			{
+				"id": 1,
+				"title": "Standard",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/10-standart.jpg",
+				"price": 700
+			},
+			{
+				"id": 2,
+				"title": "Deluxe",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/10-deluxe.jpg",
+				"price": 1100
+			},
+			{
+				"id": 4,
+				"title": "Suit",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/10-suit.jpg",
+				"price": 1700
+			}
+		],
+		"room_scenic": [
+			{
+				"id": 1,
+				"title": "Single Bed",
+				"photo": "https://tse1.mm.bing.net/th?id=OIP.0TSgVWHalWbYXri4JJWPJgHaE8&pid=Api&rs=1&c=1&qlt=95&w=152&h=101",
+				"price_rate": 10
+			},
+			{
+				"id": 2,
+				"title": "Double Bed",
+				"photo": "https://tse1.mm.bing.net/th?id=OIP.3OQjIa_iYNRXnjSifN44nQHaGj&pid=Api&rs=1&c=1&qlt=95&w=134&h=118",
+				"price_rate": 10
+			},
+			{
+				"id": 3,
+				"title": "Quadraple Beds",
+				"photo": "https://teknasyon-mailling.s3.eu-central-1.amazonaws.com/challenge/frontend/img/sea-view.jpg",
+				"price_rate": 5
+			}
+		]
+	}
+]
